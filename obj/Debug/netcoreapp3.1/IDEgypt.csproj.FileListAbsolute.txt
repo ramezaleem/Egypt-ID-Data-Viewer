@@ -1,0 +1,14 @@
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.exe
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.deps.json
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.runtimeconfig.json
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.runtimeconfig.dev.json
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.dll
+E:\C# Projects\IDEgypt\bin\Debug\netcoreapp3.1\IDEgypt.pdb
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.csproj.AssemblyReference.cache
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.AssemblyInfoInputs.cache
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.AssemblyInfo.cs
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.csproj.CoreCompileInputs.cache
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.dll
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.pdb
+E:\C# Projects\IDEgypt\obj\Debug\netcoreapp3.1\IDEgypt.genruntimeconfig.cache
